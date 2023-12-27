@@ -1,19 +1,18 @@
 # Learning Resources
 
-`Learning Resources for DevOps, SRE, Cloud & Engineering Management`
+`Learning Resources for DevOps, SRE, Cloud`
 
 [![BINPIPE](https://img.shields.io/badge/BINPIPE-YouTube-red)](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A?sub_confirmation=1)
 [![Learn DevOps!](https://img.shields.io/badge/BINPIPE-Learn--DevOps-orange)](https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md)
-[![BINPIPE](https://img.shields.io/badge/Live--Classroom-blue)](https://forms.gle/tDJxDyj2nJyfsgsk7)
 
 Curated List of Learning Resources
 --- |
 <mark>:ledger:[Lesson Plans & Videos](https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md)</mark>
 
 <pre>
-<a href="https://www.binpipe.org">BINPIPE</a> aims to simplify learning for those who are looking to make a foothold in the industry. 
-Write to me at <b>learn@binpipe.org</b> if you are looking for tailor-made training sessions. 
-For self-study resources look around in this repository, <a href="https://www.binpipe.org/">the Binpipe Blog</a> and <a href="https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A">Youtube Channel</a>.
+<a href="https://binpipe.blogspot.com">BINPIPE</a> aims to simplify learning for those who are looking to make a foothold in the industry. 
+Write to me at <b>prasanjit.cce@gmail.com</b> if you are looking for tailor-made training sessions. 
+For self-study resources look around in this repository, <a href="https://binpipe.blogspot.com/">the Binpipe Blog</a> and <a href="https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A">Youtube Channel</a>.
 </pre>
 
 ___
